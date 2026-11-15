@@ -2,6 +2,8 @@
   <img src="banner.png" alt="Vikas Kumar Meena — Founder, LIYANS DIGITAL" width="100%">
 </p>
 
+<img align="right" src="portrait.jpg" alt="Vikas Kumar Meena" width="215">
+
 # Hi, I'm Vikas Kumar Meena
 
 I design and build digital products — and I run **LIYANS DIGITAL**, a website
