@@ -8,7 +8,7 @@
 
 I design and build digital products — and I run **LIYANS DIGITAL**, a website
 design studio. My work sits where design meets the web: interfaces, digital
-products and open-source experiments that are built to be used, not just seen.
+products and open-source builds that are made to be used, not just seen.
 
 - 🌐 Website: [vikasdigital.cv](https://vikasdigital.cv)
 - 💼 Services & portfolio: [contra.com/liyanspaperlab](https://contra.com/liyanspaperlab)
@@ -21,6 +21,27 @@ products and open-source experiments that are built to be used, not just seen.
   workbooks sold on Etsy and Payhip
 - Builder of **LIYANS MCP**, a free, open (GPL) WordPress MCP plugin
 - Also a Real Estate Specialist with Dholera Realty World, Dholera SIR, Gujarat
+
+## Featured project — FRAME INDEX
+
+<p align="center">
+  <a href="https://github.com/liyansdigital/frame-index">
+    <img src="https://raw.githubusercontent.com/liyansdigital/frame-index/main/docs/social-preview.png" alt="FRAME INDEX — Every Frame Has a Story" width="720">
+  </a>
+</p>
+
+**FRAME INDEX — Every Frame Has a Story** is a cinematic contact-sheet skin for
+Video.js v10, styled like a film archive: matte ink surfaces, an index-rule
+timeline, and a restrained Signal Orange. The film is indexed into **28 real
+frames** on a persistent contact sheet — click a frame to seek, and the index
+follows playback — with a **Scene Explorer** that renders the chapter track as
+an archivist's index cards. Full keyboard control, captions in English and
+Japanese, and a committed Playwright + axe-core suite (28 checks, run against
+the production build and the real stream).
+
+- ▶ **Live demo:** https://liyansdigital.github.io/frame-index/
+- 📦 **Repository:** https://github.com/liyansdigital/frame-index
+- 🏷 Apache License 2.0 · TypeScript · React · Mux HLS
 
 ## Featured project — NEXORA
 
@@ -37,6 +58,12 @@ Challenge by Mux.
 
 - ▶ **Live demo:** https://nexora-beyond-the-frame.netlify.app/preview.html
 - 📦 **Repository:** https://github.com/liyansdigital/nexora-beyond-the-frame
+
+## Also mine
+
+- **Vikas Digital** — my agency's website, [vikasdigital.cv](https://vikasdigital.cv)
+  (WordPress, maintained with the LIYANS MCP workflow); a static edition lives at
+  [github.com/liyansdigital/vikasdigital-site](https://github.com/liyansdigital/vikasdigital-site).
 
 ## Tools & technologies I work with
 
